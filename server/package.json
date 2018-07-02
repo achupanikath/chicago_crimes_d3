@@ -1,0 +1,20 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expressPractice.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Achuthan Panikath",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}

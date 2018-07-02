@@ -1,0 +1,41 @@
+svg {
+  font: 10px sans-serif;
+	shape-rendering: crispEdges;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+}
+
+path.domain {
+  stroke: black;
+}
+
+.y .tick line {
+  stroke: #ddd;
+}
+
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:18px;
+	color:#000000;
+	border-width: 2px;
+	border-color: #b3b3b3;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #250707;
+	background-color: #afafaf;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #aca7a7;
+}	

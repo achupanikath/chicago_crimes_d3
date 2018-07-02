@@ -1,0 +1,212 @@
+[
+    {
+        "BATTERY": {
+            "Arrest": 257486,
+            "noArrest": 951213
+        }
+    },
+    {
+        "OTHER OFFENSE": {
+            "Arrest": 72270,
+            "noArrest": 338556
+        }
+    },
+    {
+        "ROBBERY": {
+            "Arrest": 23818,
+            "noArrest": 227352
+        }
+    },
+    {
+        "NARCOTICS": {
+            "Arrest": 688609,
+            "noArrest": 16239
+        }
+    },
+    {
+        "CRIMINAL DAMAGE": {
+            "Arrest": 52382,
+            "noArrest": 705909
+        }
+    },
+    {
+        "WEAPONS VIOLATION": {
+            "Arrest": 51785,
+            "noArrest": 16242
+        }
+    },
+    {
+        "THEFT": {
+            "Arrest": 164512,
+            "noArrest": 1222006
+        }
+    },
+    {
+        "BURGLARY": {
+            "Arrest": 21308,
+            "noArrest": 360991
+        }
+    },
+    {
+        "MOTOR VEHICLE THEFT": {
+            "Arrest": 25620,
+            "noArrest": 284107
+        }
+    },
+    {
+        "PUBLIC PEACE VIOLATION": {
+            "Arrest": 27741,
+            "noArrest": 19406
+        }
+    },
+    {
+        "DECEPTIVE PRACTICE": {
+            "Arrest": 42499,
+            "noArrest": 210717
+        }
+    },
+    {
+        "ASSAULT": {
+            "Arrest": 87644,
+            "noArrest": 321290
+        }
+    },
+    {
+        "CRIMINAL TRESPASS": {
+            "Arrest": 136080,
+            "noArrest": 54214
+        }
+    },
+    {
+        "CRIM SEXUAL ASSAULT": {
+            "Arrest": 4075,
+            "noArrest": 22154
+        }
+    },
+    {
+        "INTERFERENCE WITH PUBLIC OFFICER": {
+            "Arrest": 13216,
+            "noArrest": 1310
+        }
+    },
+    {
+        "ARSON": {
+            "Arrest": 1321,
+            "noArrest": 9639
+        }
+    },
+    {
+        "LIQUOR LAW VIOLATION": {
+            "Arrest": 13392,
+            "noArrest": 535
+        }
+    },
+    {
+        "KIDNAPPING": {
+            "Arrest": 713,
+            "noArrest": 5877
+        }
+    },
+    {
+        "SEX OFFENSE": {
+            "Arrest": 7203,
+            "noArrest": 17274
+        }
+    },
+    {
+        "OFFENSE INVOLVING CHILDREN": {
+            "Arrest": 9325,
+            "noArrest": 34923
+        }
+    },
+    {
+        "PROSTITUTION": {
+            "Arrest": 67709,
+            "noArrest": 282
+        }
+    },
+    {
+        "HOMICIDE": {
+            "Arrest": 4308,
+            "noArrest": 4809
+        }
+    },
+    {
+        "GAMBLING": {
+            "Arrest": 13947,
+            "noArrest": 329
+        }
+    },
+    {
+        "INTIMIDATION": {
+            "Arrest": 617,
+            "noArrest": 3222
+        }
+    },
+    {
+        "STALKING": {
+            "Arrest": 522,
+            "noArrest": 2760
+        }
+    },
+    {
+        "OBSCENITY": {
+            "Arrest": 396,
+            "noArrest": 143
+        }
+    },
+    {
+        "PUBLIC INDECENCY": {
+            "Arrest": 146,
+            "noArrest": 8
+        }
+    },
+    {
+        "HUMAN TRAFFICKING": {
+            "Arrest": 6,
+            "noArrest": 35
+        }
+    },
+    {
+        "CONCEALED CARRY LICENSE VIOLATION": {
+            "Arrest": 184,
+            "noArrest": 17
+        }
+    },
+    {
+        "OTHER NARCOTIC VIOLATION": {
+            "Arrest": 85,
+            "noArrest": 38
+        }
+    },
+    {
+        "NON - CRIMINAL": {
+            "Arrest": 6,
+            "noArrest": 32
+        }
+    },
+    {
+        "NON-CRIMINAL": {
+            "Arrest": 8,
+            "noArrest": 139
+        }
+    },
+    {
+        "RITUALISM": {
+            "Arrest": 3,
+            "noArrest": 20
+        }
+    },
+    {
+        "NON-CRIMINAL (SUBJECT SPECIFIED)": {
+            "Arrest": 3,
+            "noArrest": 4
+        }
+    },
+    {
+        "DOMESTIC VIOLENCE": {
+            "Arrest": 1,
+            "noArrest": 0
+        }
+    }
+]
